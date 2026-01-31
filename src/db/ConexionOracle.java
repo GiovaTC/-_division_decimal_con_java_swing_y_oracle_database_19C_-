@@ -12,4 +12,4 @@ public class ConexionOracle {
 
         return DriverManager.getConnection(url, user, pass);
     }
-}   
+}
