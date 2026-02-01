@@ -1,7 +1,9 @@
 # -_division_decimal_con_java_swing_y_oracle_database_19C_- :.
 # -_division_decimal_con_java_swing_y_oracle_database_19C_-:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/63f3ab78-d2c3-4d5b-b8d1-eccc1e3027f6" />   
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/63f3ab78-d2c3-4d5b-b8d1-eccc1e3027f6" />  
+
+<img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/c606d314-2f3f-4cb6-93f4-f64db68ad013" />  
 
 - A continuacion tienes una solución completa, clara y ejecutable en Java (IntelliJ IDEA) + Oracle Database 19c , que cumple con el requerimiento planteado.
 
